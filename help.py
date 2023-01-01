@@ -1,0 +1,5 @@
+print("\nUsage : bash wish.sh <option> '<name>'\n")
+print("Options :\n   'animation' for a animation\n   'email' for sending automatic email\n\n'name' : name of whose birthday ")
+print("\n\n|******|====For wishing Birthday====|******|")
+print("\n\nBy LearnEHKing \nYouTube -> LearnEHKing")
+print("\nSubscribe for more tutorials and Tools.")
